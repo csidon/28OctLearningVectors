@@ -1,0 +1,5 @@
+﻿  28Oct2021_LearningAboutVectors.cpp
+C:\Users\270158235\OneDrive - UP Education\1 CS103\28Oct2021_LearningAboutVectors\28Oct2021_LearningAboutVectors.cpp(93,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\270158235\OneDrive - UP Education\1 CS103\28Oct2021_LearningAboutVectors\28Oct2021_LearningAboutVectors.cpp(108,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\270158235\OneDrive - UP Education\1 CS103\28Oct2021_LearningAboutVectors\28Oct2021_LearningAboutVectors.cpp(144): warning C4717: 'readFizzyFromFile': recursive on all control paths, function will cause runtime stack overflow
+  28Oct2021_LearningAboutVectors.vcxproj -> C:\Users\270158235\OneDrive - UP Education\1 CS103\28Oct2021_LearningAboutVectors\Debug\28Oct2021_LearningAboutVectors.exe
